@@ -5,7 +5,7 @@ compatibility: Node.js 22+, npm, Git, MariaDB
 license: MIT
 metadata:
   author: Magga
-  version: "2.0.2"
+  version: "4.0.0"
 ---
 
 # Project Onboarding Skill
